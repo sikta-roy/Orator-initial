@@ -1,8 +1,10 @@
 <div align="center">
+  <br />
+      <img src="public/pic.png" alt="Project Banner" style="border-radius:12px; max-width:100%;">
+  <br />
   <h1 align="center">Orator</h1>
-  
-
 </div>
+
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -10,14 +12,10 @@ Orator is an Android app that converts text in images to text that can be copied
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
-- TypeScript
-- Convex
-- OpenAI
-- Clerk
-- ShadCN
-- Tailwind CSS
-- Zod (for validation)
+- Java
+- XML
+- Android Studio
+
 
 ## <a name="contact">📞 Contact</a>
 
